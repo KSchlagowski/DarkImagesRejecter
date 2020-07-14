@@ -1,0 +1,3 @@
+maxDarkness=80
+dirPathIn=C:\Users\Kamil\Desktop\inout\in\
+dirPathOut=C:\Users\Kamil\Desktop\inout\out\

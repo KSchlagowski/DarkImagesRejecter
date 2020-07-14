@@ -1,0 +1,31 @@
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.exe
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.deps.json
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.runtimeconfig.json
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.runtimeconfig.dev.json
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.dll
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.pdb
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.csprojAssemblyReference.cache
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.AssemblyInfoInputs.cache
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.AssemblyInfo.cs
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.dll
+D:\Programowanie\Zadanie Scalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.pdb
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.exe
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.deps.json
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.runtimeconfig.json
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.runtimeconfig.dev.json
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.dll
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Scalac.pdb
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.csprojAssemblyReference.cache
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.AssemblyInfoInputs.cache
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.AssemblyInfo.cs
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.dll
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.pdb
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\obj\Debug\netcoreapp3.1\Scalac.csproj.CopyComplete
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Programowanie\ZadanieScalac\NewConsole\Scalac\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
